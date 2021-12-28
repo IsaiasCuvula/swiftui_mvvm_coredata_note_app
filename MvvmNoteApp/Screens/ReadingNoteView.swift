@@ -71,10 +71,8 @@ struct ReadingNoteView: View {
 
             }
         
-        
     }
-    
-    
+     
    
 }
 

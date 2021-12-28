@@ -43,7 +43,6 @@ struct ContentView: View {
                         
                         Spacer()
                         
-                        
                         NavigationLink{
                             AddNoteScreen()
                             
@@ -58,9 +57,7 @@ struct ContentView: View {
                         
                     }//HSTACK
                     
-                    
                     Spacer()
-                    
                     
                     if notesVM.notes.isEmpty {
                         
